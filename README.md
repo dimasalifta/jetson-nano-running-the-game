@@ -1,6 +1,16 @@
-# Tutorial Install OS Jetson Nano
-## Step 1. Menginstall OS Jetson Nano, Ikuti panduan pada link dibawah ini
-[STEP 1] (https://yunusmuhammad007.medium.com/1-getting-started-with-jetson-nano-developer-kit-a745c9cc598e)
+# Documentation Running the Game on Jetson Nano
+## 1. Setup for PC Remote
+1. Downloads & Install VNC Viewer
+
+    Link Downloads https://www.realvnc.com/en/connect/download/viewer
+
+2. Open  & Setup VNC Viewer
+   
+   File $\rightarrow$ New Connection $\rightarrow$ Input Game PC's IP
+   [MarineGEO circle logo](/assets/img/picture1.jpg "MarineGEO logo")
+3. 
+
+   
 
 ## Step 2. Setup VNC Jetson Nano, Ikuti panduan pada link dibawah ini
 [STEP 2] (https://yunusmuhammad007.medium.com/4-setup-vnc-server-pada-jetson-nano-35d3b6121234 (NOTE: Hanya Nomor 1 dan 3 ))
